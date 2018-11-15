@@ -4,7 +4,17 @@ Study guide for Exam #2
 ## Exam on everything we have covered since last exam:
 * DOM
   * What is it?
+    - Document Object Model, a tree of objects that allows JS to be   dynamic
+    - With the DOM, JS can
+	        \\Change/Add/Delete HTML elements, attributes, also  \\reacting and creating events.
+	        \\Can also change all the CSS Styles in a page
+          \\Also the programming interface for HTML
+    -
+
   * How is it represented?
+    - Methods are actions you perform on HTML elements
+    - Properties are values of HTML elements you can set/Change
+    - All HTML Elements are defined as objects
   * Convert from an HTML page to DOM
   * Know that the DOM is what JavaScript manipulates how we get results to browser
   * Know how to access data from elements in the DOM
@@ -13,6 +23,7 @@ Study guide for Exam #2
 
 * Manipulating the DOM
   * getElementById()
+    - most common way to access an element
   * dot notation to access properties
 * JavaScript objects
   * Identify a JavaScript object
@@ -46,5 +57,5 @@ Study guide for Exam #2
   * The 3 events fired from dragging
   * Know there is no special HTML setting to receive drops
   * Know the 4 events fired from dropping
-  
-  ## Anything from Chapters 9, 10, and 11 (along with coding examples and anything else we covered) is fair game 
+
+  ## Anything from Chapters 9, 10, and 11 (along with coding examples and anything else we covered) is fair game
